@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-loading",
+  "version": "1.0.0",
+  "description": "Ladda buttons concept originally by @hakimel, example using Bootstrap 3 by @msurguy.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaahmdantas/bootstrap-loading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaahmdantas/bootstrap-loading/issues"
+  },
+  "homepage": "https://github.com/isaahmdantas/bootstrap-loading#readme",
+  "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-contrib-uglify": "^0.7.0",
+        "grunt-contrib-clean": "^0.6.0",
+        "grunt-contrib-sass": "^1.0.0",
+        "grunt-contrib-cssmin": "^1.0.1"
+   }
+}
