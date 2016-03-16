@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-loading",
+  "authors": [
+    "isaahmdantas <isadoramariadasilvadantas@gmail.com>"
+  ],
+  "description": "Ladda buttons concept originally by @hakimel, example using Bootstrap 3 by @msurguy",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ladda-bootstrap": "https://github.com/msurguy/ladda-bootstrap.git#^0.1.0"
+  }
+}
