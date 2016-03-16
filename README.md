@@ -8,7 +8,7 @@ Buttons with built-in loading indicators, effectively bridging the gap between a
 ###Installation
 
 ``` 
-$ bower install 
+$ bower install bootstrap-loading
 
 in /bower.json file insert:
 "dependencies": {
@@ -21,7 +21,7 @@ in /bower.json file insert:
 
 *not need to enter anything /bower.json file, this command does this automatically.*
 
-``` $ bower install --save ```
+``` $ bower install bootstrap-loading --save-dev ```
 
 
 ###HTML
